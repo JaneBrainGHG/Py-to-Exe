@@ -1,5 +1,3 @@
-# Py-to-Exe
-
 # Python to EXE Converter Tool 🚀
 
 Simple Windows tool to create standalone executables from Python files with custom icons - no coding required!
