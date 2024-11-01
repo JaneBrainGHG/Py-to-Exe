@@ -10,9 +10,14 @@ Simple Windows tool to create standalone executables from Python files with cust
 - Creates standalone Windows EXE files
 - Shows exact file location when done
 
+## Download ⬇️
+
+Due to file size limitations on GitHub, download the tool from Google Drive:
+[Download PyToExe.exe](https://drive.google.com/drive/folders/1J95UV_0Q5hsEBkRxQTAuJeTx9cHIOohJ?usp=sharing)
+
 ## How to Use 💻
 
-1. Download the `PyToExe.exe`
+1. Download `PyToExe.exe` from Google Drive
 2. Double-click to run it
 3. Select your Python file in the first window
 4. Select your icon file (.ico) in the second window
@@ -41,3 +46,4 @@ For the converter:
 ## License 📄
 
 MIT License - Use freely!
+
